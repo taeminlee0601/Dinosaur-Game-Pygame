@@ -1,4 +1,3 @@
-from pickle import FALSE
 import pygame
 import os
 import time
